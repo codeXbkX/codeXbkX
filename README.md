@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeXbkX
+- 👋 Hi, I’m @codeXbkX aka @BikashKalita
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on js
