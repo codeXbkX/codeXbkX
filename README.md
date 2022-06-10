@@ -2,6 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on js
+- <img src="https://komarev.com/ghpvc/?username=codexBKx&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22codexBKX" />
+
 
 <!---
 codeXbkX/codeXbkX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
