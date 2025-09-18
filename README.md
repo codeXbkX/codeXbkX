@@ -1,8 +1,6 @@
 <!-- Banner -->
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=09202AFF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Bikash+Kalita+(@codeXbkX);Backend+Developer+in+Progress;Tech+Enthusiast+%7C+Open+Source+Lover;Always+Learning+New+Things+🚀" />
+![Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000&center=true&vCenter=true&width=600&lines=Hey!+I'm+Bikash+Kalita+(@codeXbkX);Backend+Developer+in+Progress;Tech+Enthusiast+%7C+Open+Source+Lover;Always+Learning+New+Things+🚀)
 
-</p>
 
 ---
 
@@ -16,16 +14,14 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,firebase,heroku,xd,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,firebase,react,next,flutter" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexBKx&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codexBKx&theme=react-dark&hide_border=true&area=true)
 
 ---
 
