@@ -1,23 +1,47 @@
-- 👋 Hi, I’m @codeXbkX aka @BikashKalita
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on js
-- <img src="https://komarev.com/ghpvc/?username=codexBKx&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22codexBKX" />
+<!-- Banner -->
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=09202AFF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Bikash+Kalita+(@codeXbkX);Backend+Developer+in+Progress;Tech+Enthusiast+%7C+Open+Source+Lover;Always+Learning+New+Things+🚀" />
 
-
-<!---
-codeXbkX/codeXbkX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<br><p align="center">&nbsp;<img align="center" href="https://github.com/codeXbkX" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=codexbkx&&show_icons=true&theme=dark" alt="CodeXbkX"/></p></a>
-
-<br><p align="center">&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codeXbkX&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Most Used Languages"/></p><br> 
-
-<p align="center"> 
-<code><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code>&nbsp;<code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a></code>&nbsp;<code><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>&nbsp;<code><a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a></code>&nbsp;<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>&nbsp;<code><a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a></code>&nbsp;
 </p>
 
- <br><p align="center">&nbsp;<img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FcodeXbkX&countColor=%23263759" alt="Most Used Languages"/></p><br> 
- 
- ![](https:/bit.ly/3GDBX4p)
+---
+
+## 👨‍💻 About Me  
+- 🌟 Passionate about **Coding, Problem Solving & Backend Development**  
+- 🚀 Currently exploring **Node.js, Express & Databases**  
+- 🤝 Open to collaborate on **JavaScript / Open Source projects**  
+- ⚡ Fun fact: *I break code to fix it better!*  
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,firebase,heroku,xd,ai" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexBKx&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🤝 Contribution
+
+![Contribution](https://github.com/codexBKx/codexBKx/blob/output/snake.svg)
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+<!--   <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+  <a href="mailto:wwwbikash@rediffmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/3ikashKalita" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=codexBKx&label=Profile%20Views&color=blue&style=plastic)
